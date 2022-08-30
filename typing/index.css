@@ -1,0 +1,13 @@
+.full-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    margin: 0px;
+    overflow: hidden;
+}

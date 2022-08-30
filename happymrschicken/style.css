@@ -1,0 +1,43 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: calc(100% - 16px);
+    width: calc(100% - 16px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1fa9ff;
+}
+
+div {
+    font-family: 'Times New Roman';
+    font-size: 14pt;
+}
+
+span.keyhint {
+    font-size: 14pt;
+    background-color: floralwhite;
+    padding: 3px;
+}
+
+canvas {
+    position: absolute;
+}
+
+img {
+    user-select: none;
+    position: absolute;
+    transform: scale(80%);
+}
+
+.countdiv {
+    position:absolute;
+    right: 200px;
+    top: 100px;
+    font-family: 'Comic Sans MS';
+    font-size: 48px;
+    color: white;
+}
