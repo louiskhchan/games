@@ -1,6 +1,6 @@
 # Games
 
-You can try the mini-games I wrote to please my kids. They are unfinished at all so don't judge my skills from them!
+You can try the mini-games I wrote to please my kids. They are unfinished, so don't judge my skills from them!
 
 ## Happy Mrs Chicken
 
